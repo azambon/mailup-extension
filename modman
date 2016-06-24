@@ -1,4 +1,4 @@
-app/code/local/MailUp/MailUpSync  app/code/local/MailUp/MailUpSync
+app/code/community/MailUp/MailUpSync  app/code/community/MailUp/MailUpSync
 app/design/adminhtml/default/default/layout/mailup.xml  app/design/adminhtml/default/default/layout/mailup.xml
 app/design/adminhtml/default/default/template/mailup/mailupsync app/design/adminhtml/default/default/template/mailup/mailupsync
 app/design/frontend/base/default/layout/mailup.xml  app/design/frontend/base/default/layout/mailup.xml
